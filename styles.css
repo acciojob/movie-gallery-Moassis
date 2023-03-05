@@ -1,2 +1,24 @@
 
-/* Your CSS Code here. */
+.column {
+    float: left;
+    width: 8.33%;
+  }
+  
+  .column1 {
+    float: left;
+    width: 16.66%;
+  }
+  
+  .column2 {
+    float: left;
+    width: 33.33%;
+  }
+  .column3 {
+    float: left;
+    width: 100%;
+  }
+.fluid:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
