@@ -1,19 +1,19 @@
 
-.column {
+.col-sm-1 {
     float: left;
     width: 8.33%;
   }
   
-  .column1 {
+  .col-sm-2 {
     float: left;
     width: 16.66%;
   }
   
-  .column2 {
+  .col-sm-4 {
     float: left;
     width: 33.33%;
   }
-  .column3 {
+  .col-sm-12 {
     float: left;
     width: 100%;
   }
