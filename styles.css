@@ -1,24 +1,25 @@
-
 .col-sm-1 {
-    float: left;
-    width: 8.33%;
-  }
-  
-  .col-sm-2 {
-    float: left;
-    width: 16.66%;
-  }
-  
-  .col-sm-4 {
-    float: left;
-    width: 33.33%;
-  }
-  .col-sm-12 {
-    float: left;
-    width: 100%;
-  }
+  float: left;
+  width: 8.33%;
+}
+
+.col-sm-2 {
+  float: left;
+  width: 16.66%;
+}
+
+.col-sm-4 {
+  float: left;
+  width: 33.33%;
+}
+.col-sm-12 {
+  float: left;
+  width: 100%;
+}
+
 .fluid:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
+  content: "";
+  display: table;
+  clear: both;
+}
+
